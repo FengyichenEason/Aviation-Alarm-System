@@ -60,12 +60,13 @@
 - joblib
 - psutil
 - openpyxl
+- psutil
 
 ## 安装
 
 ```bash
 # 克隆代码库
-git clone https://github.com/yourusername/aviation-alarm-system.git
+git clone https://github.com/FengyichenEason/aviation-alarm-system.git
 cd aviation-alarm-system
 
 # 创建虚拟环境
